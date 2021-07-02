@@ -6,8 +6,8 @@
 * restart sublime and wait for the packages to be auto-installed by the sublime package manager
 
 ## troubleshooting
-* If you get a weird coloured bar across the top the screen on install of this repo, change the theme and then change it back.
- *  Open the menu preferences > theme
- *  change the theme to Default.sublime-theme
- *  wait
- *  change the theme to Seti.sublime-theme
+ * If you get a weird coloured bar across the top the screen on install of this repo, change the theme and then change it back.
+    *  Open the menu preferences > theme
+    *  change the theme to Default.sublime-theme
+    *  wait
+    *  change the theme to Seti.sublime-theme
