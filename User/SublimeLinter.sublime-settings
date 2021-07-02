@@ -1,0 +1,15 @@
+{
+    "linters":
+    {
+        "sasslint":
+        {
+            "args": [
+                "--config",
+                "~/Sites/_globalSettings//.sass-lint.yml"
+            ]
+
+        }
+    },
+    "gutter_theme": "Circle",
+
+}
