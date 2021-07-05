@@ -5,7 +5,7 @@
         {
             "args": [
                 "--config",
-                "~/Sites/_globalSettings//.sass-lint.yml"
+                "~/Sites/_globalsettings/.sass-lint.yml"
             ]
 
         }
