@@ -5,6 +5,9 @@
 * clone repo into the sublime packages folder
 * restart sublime and wait for the packages to be auto-installed by the sublime package manager
 
+## Branches
+* are for different operating systems, different use cases
+
 ## troubleshooting
  * If you get a weird coloured bar across the top the screen on install of this repo, change the theme and then change it back.
     *  Open the menu preferences > theme
