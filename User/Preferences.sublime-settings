@@ -1,6 +1,6 @@
 {
 	"afn_use_project_root": true,
-	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"detect_indentation": false,
 	"disable_tab_abbreviations_on_auto_complete": false,
 	"highlight_line": true,
