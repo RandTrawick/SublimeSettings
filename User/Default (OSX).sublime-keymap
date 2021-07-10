@@ -1,5 +1,4 @@
 [
-  { "keys": ["super+shift+h"], "command": "js_prettier" },
   {
     "keys": ["super+shift+k"],
     "command": "run_macro_file",

@@ -4,6 +4,7 @@
 /User/*
 !/User/*.settings
 /User/*/
+*.gitignore
 #hide cache
 *Control.cache
 
