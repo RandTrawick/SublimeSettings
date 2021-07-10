@@ -1,0 +1,31 @@
+# hide almost everything from repo
+/*
+!/User
+/User/*
+!/User/*.settings
+/User/*/
+#hide cache
+*Control.cache
+
+# custom packages settings
+!/Seti_UI
+/Seti_UI/*
+!/Seti_UI/Seti.sublime-theme
+
+!/HTML-CSS-JS Prettify
+/HTML-CSS-JS Prettify/*
+!/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings
+
+# file templates
+!/FileHeader
+/FileHeader/*
+!/FileHeader/template
+/FileHeader/template/*
+!/FileHeader/template/header
+/FileHeader/template/header/*
+!/FileHeader/template/header/JavaScript.tmpl
+
+
+# don't ignore base readme
+!README.md
+*/README.md
