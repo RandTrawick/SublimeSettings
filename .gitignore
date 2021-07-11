@@ -3,6 +3,7 @@
 !/User
 /User/*
 !/User/*.settings
+!/User/*.jsbeautifyrc
 /User/*/
 *.gitignore
 #hide cache
