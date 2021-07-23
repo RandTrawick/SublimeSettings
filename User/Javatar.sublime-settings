@@ -1,0 +1,69 @@
+{
+	"jdk_version":
+	{
+		"JDK1.8.0u261":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/bin",
+			"update": "261",
+			"version": "1.8.0"
+		},
+		"JDK1.8.0u275":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin",
+			"update": "275",
+			"version": "1.8.0"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"11":
+		{
+			"folders":
+			[
+				{
+					"path": "."
+				}
+			]
+		},
+		"14": null,
+		"15":
+		{
+			"folders":
+			[
+				{
+					"path": "."
+				}
+			]
+		},
+		"17":
+		{
+			"folders":
+			[
+				{
+					"path": "."
+				}
+			]
+		},
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "."
+				}
+			]
+		},
+		"4": null,
+		"8":
+		{
+			"folders":
+			[
+				{
+					"path": "."
+				}
+			]
+		}
+	}
+}
