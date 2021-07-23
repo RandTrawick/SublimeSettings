@@ -1,5 +1,10 @@
 {
 	"in_process_packages":
 	[
+	],
+	"installed_packages":
+	[
+		"Seti_UI",
+		"Seti_UX"
 	]
 }
