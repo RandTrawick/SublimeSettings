@@ -1,0 +1,12 @@
+{
+  "all":
+  {
+    "indent_size": 2,
+  },
+  "js":
+  {
+    "e4x": true,
+    "space_after_anon_function": true,
+    "end_with_newline": true
+  }
+}
