@@ -11,6 +11,7 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"save_on_focus_lost": true,
+	"submit_usage": "no",
 	"synch_folds": true,
 	"tab_size": 2,
 	"theme": "Seti.sublime-theme",
