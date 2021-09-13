@@ -1,6 +1,6 @@
 {
 	"afn_use_project_root": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
 	"detect_indentation": false,
 	"disable_tab_abbreviations_on_auto_complete": false,
 	"highlight_line": true,
@@ -11,7 +11,6 @@
 		"EsFormatter",
 		"HTML Minifier",
 		"Javatar",
-		"JDebug",
 		"MarkdownLivePreview",
 		"Minifier",
 		"React IDE",
