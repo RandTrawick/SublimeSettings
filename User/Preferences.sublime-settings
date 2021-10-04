@@ -7,14 +7,21 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"EsFormatter",
+		"HTML Minifier",
+		"Indent XML",
+		"JDebug",
+		"MarkdownLivePreview",
+		"Minifier",
+		"Vintage",
 	],
 	"overlay_scroll_bars": "enabled",
 	"save_on_focus_lost": true,
 	"submit_usage": "no",
 	"synch_folds": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
+	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+	"word_wrap": true,
+  "ui_native_titlebar":       true,
 }

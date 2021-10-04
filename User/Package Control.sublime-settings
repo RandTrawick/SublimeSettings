@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoHotkey",
+		"ayu",
 		"Babel",
 		"Babel Snippets",
 		"Case Conversion",
@@ -46,6 +47,6 @@
 		"Terminal",
 		"Theme - Monokai+",
 		"VBScript",
-		"WebdriverIO"
-	]
+		"WebdriverIO",
+	],
 }
