@@ -18,7 +18,6 @@
 		"FileDiffs",
 		"FileHeader",
 		"HTML-CSS-JS Prettify",
-		"Javatar",
 		"JDebug",
 		"jQuery",
 		"MarkdownPreview",
@@ -48,9 +47,11 @@
 		"SublimeLinter-pug-lint",
 		"SublimeLinter-xmllint",
 		"SyncedSideBar",
+		"TabsExtra",
 		"Terminal",
 		"Theme - Monokai+",
 		"VBScript",
-		"WebdriverIO"
+		"WebdriverIO",
+		"Xdebug Client"
 	]
 }

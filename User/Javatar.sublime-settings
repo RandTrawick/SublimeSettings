@@ -18,17 +18,6 @@
 	"message_id": 20,
 	"project_data":
 	{
-		"2": null,
-		"3":
-		{
-			"folders":
-			[
-				{
-					"path": "."
-				}
-			]
-		},
-		"4": null,
-		"5": null
+		"4": null
 	}
 }
