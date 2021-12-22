@@ -14,3 +14,10 @@
     *  change the theme to Default.sublime-theme
     *  wait
     *  change the theme to Seti.sublime-theme
+
+## highlights / features
+  * Dark theme with icons
+  * Autosave files
+  * Code formatters
+  * Code linting for JavaScript, Sass, HTML, etc.
+  * Case convert for easy changing case of text
