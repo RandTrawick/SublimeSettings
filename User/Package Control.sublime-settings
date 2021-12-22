@@ -37,7 +37,6 @@
 		"Seti_UX",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-twiglint",
 		"SublimeLinter-csslint",
@@ -50,6 +49,7 @@
 		"TabsExtra",
 		"Terminal",
 		"Theme - Monokai+",
+		"TypeScript",
 		"VBScript",
 		"WebdriverIO",
 		"Xdebug Client"
