@@ -1,6 +1,7 @@
 # A pretty good sublime text setup
 
 ## to use this
+* install the sublime package manager
 * open the sublime packages folder in a command prompt window
 * clone repo into the sublime packages folder
 * restart sublime and wait for the packages to be auto-installed by the sublime package manager
