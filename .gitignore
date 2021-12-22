@@ -2,8 +2,10 @@
 /*
 !/User
 /User/*
-!/User/*.settings
 !/User/*.jsbeautifyrc
+!/User/*.settings
+!/User/*.sublime-keymap
+!/User/*.sublime-settings
 /User/*/
 *.gitignore
 #hide cache

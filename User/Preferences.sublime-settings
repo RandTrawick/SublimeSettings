@@ -23,7 +23,7 @@
 	"save_on_focus_lost": true,
 	"synch_folds": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
