@@ -16,10 +16,11 @@
     *  wait
     *  change the theme to Seti.sublime-theme
 
-## highlights / features
+## highlights / features ([details](DetailsREADME.md))
   * Dark theme with icons
   * Autosave files
   * Code formatters
   * Code linting for JavaScript, Sass, HTML, etc.
   * Case convert for easy changing case of text
+  * Markdown previewing
  
