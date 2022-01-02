@@ -22,3 +22,4 @@
   * Code formatters
   * Code linting for JavaScript, Sass, HTML, etc.
   * Case convert for easy changing case of text
+ 
