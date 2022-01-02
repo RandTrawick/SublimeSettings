@@ -30,4 +30,5 @@
 
 # don't ignore base readme
 !README.md
+!DetailsREADME.md
 */README.md
