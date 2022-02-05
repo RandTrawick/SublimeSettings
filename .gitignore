@@ -4,6 +4,7 @@
 /User/*
 !/User/*.settings
 !/User/*.jsbeautifyrc
+!/User/*.sublime-commands
 /User/*/
 *.gitignore
 #hide cache

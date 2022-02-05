@@ -1,40 +1,48 @@
 {
-  "replacements": {
-    "replace_1": {
-      "find": "subscription",
-      "replace": "time",
-      "greedy": true,
-      "case": true
-    },
-    "replace_2": {
-      "find": "Subscription",
-      "replace": "Time",
-      "greedy": true,
-      "case": true
-    },
-    "replace_3": {
-      "find": "subscriptions",
-      "replace": "times",
-      "greedy": true,
-      "case": true
-    },
-    "replace_4": {
-      "find": "Subscriptions",
-      "replace": "Times",
-      "greedy": true,
-      "case": true
-    },
-        "replace_5": {
-      "find": "SUBSCRIPTIONS",
-      "replace": "TIMES",
-      "greedy": true,
-      "case": true
-    },
-      "replace_6": {
-      "find": "SUBSCRIPTION",
-      "replace": "TIME",
-      "greedy": true,
-      "case": true
+    "format": "3.0",
+    "replacements":
+    {
+        "replace_1":
+        {
+            "case": true,
+            "find": "subscription",
+            "greedy": true,
+            "replace": "time"
+        },
+        "replace_2":
+        {
+            "case": true,
+            "find": "Subscription",
+            "greedy": true,
+            "replace": "Time"
+        },
+        "replace_3":
+        {
+            "case": true,
+            "find": "subscriptions",
+            "greedy": true,
+            "replace": "times"
+        },
+        "replace_4":
+        {
+            "case": true,
+            "find": "Subscriptions",
+            "greedy": true,
+            "replace": "Times"
+        },
+        "replace_5":
+        {
+            "case": true,
+            "find": "SUBSCRIPTION",
+            "greedy": true,
+            "replace": "TIME"
+        },
+        "replace_6":
+        {
+            "case": true,
+            "find": "SUBSCRIPTIONS",
+            "greedy": true,
+            "replace": "TIMES"
+        }
     }
-  }
 }

@@ -1,0 +1,16 @@
+[
+  {
+    "caption": "Reg Replace: Replace all",
+    "command": "reg_replace",
+    "args": {
+      "replacements": [
+        "replace_1",
+        "replace_2",
+        "replace_3",
+        "replace_4",
+        "replace_5",
+        "replace_6"
+      ]
+    }
+  },
+]
