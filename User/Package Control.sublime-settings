@@ -16,8 +16,9 @@
 		"Emmet Css Snippets",
 		"FileDiffs",
 		"FileHeader",
-		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
 		"jQuery",
+		"JsPrettier",
 		"MarkdownPreview",
 		"Monokai Extended",
 		"Package Control",
@@ -49,6 +50,6 @@
 		"Terminal",
 		"Theme - Monokai+",
 		"VBScript",
-		"WebdriverIO"
-	]
+		"WebdriverIO",
+	],
 }

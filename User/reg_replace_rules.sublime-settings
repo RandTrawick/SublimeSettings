@@ -5,44 +5,49 @@
         "replace_1":
         {
             "case": true,
-            "find": "subscription",
+            "find": "autocomplete",
             "greedy": true,
-            "replace": "time"
+            "replace": "tag"
         },
+
         "replace_2":
         {
             "case": true,
-            "find": "Subscription",
+            "find": "autocompletes",
             "greedy": true,
-            "replace": "Time"
+            "replace": "tags"
         },
+
         "replace_3":
         {
             "case": true,
-            "find": "subscriptions",
+            "find": "Autocomplete",
             "greedy": true,
-            "replace": "times"
+            "replace": "Tag"
         },
+
         "replace_4":
         {
             "case": true,
-            "find": "Subscriptions",
+            "find": "Autocompletes",
             "greedy": true,
-            "replace": "Times"
+            "replace": "Tags"
         },
+
         "replace_5":
         {
             "case": true,
-            "find": "SUBSCRIPTION",
+            "find": "AUTOCOMPLETE",
             "greedy": true,
-            "replace": "TIME"
+            "replace": "TAG"
         },
+
         "replace_6":
         {
             "case": true,
-            "find": "SUBSCRIPTIONS",
+            "find": "AUTOCOMPLETES",
             "greedy": true,
-            "replace": "TIMES"
+            "replace": "TAGS"
         }
     }
 }
