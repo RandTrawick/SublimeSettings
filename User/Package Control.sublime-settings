@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TypeScript",
 	],
 	"installed_packages":
 	[
@@ -17,10 +18,10 @@
 		"Emmet Css Snippets",
 		"FileDiffs",
 		"FileHeader",
-		"HTML-CSS-JS Prettify",
 		"HTMLBeautify",
 		"JDebug",
 		"jQuery",
+		"JsPrettier",
 		"Log Highlight",
 		"MarkdownPreview",
 		"Minify",
@@ -59,6 +60,6 @@
 		"TypeScript",
 		"VBScript",
 		"WebdriverIO",
-		"Xdebug Client"
-	]
+		"Xdebug Client",
+	],
 }
