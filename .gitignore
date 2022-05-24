@@ -26,9 +26,6 @@
 !/FileHeader/template
 /FileHeader/template/*
 !/FileHeader/template/header
-/FileHeader/template/header/*
-!/FileHeader/template/header/JavaScript.tmpl
-
 
 # don't ignore base readme
 !README.md
