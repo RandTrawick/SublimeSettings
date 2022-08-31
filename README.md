@@ -11,10 +11,11 @@
 
 ## troubleshooting
  * If you get a weird coloured bar across the top the screen on install of this repo, change the theme and then change it back.
-    *  Open the menu preferences > theme
-    *  change the theme to Default.sublime-theme
-    *  wait
-    *  change the theme to Seti.sublime-theme
+    * Open the menu preferences > theme
+    * change the theme to Default.sublime-theme
+    * wait
+    * change the theme to Seti.sublime-theme
+    * If that still does not fix it, try removing  Seti UI theme and reinstalling it.
 
 ## highlights / features
   * Dark theme with icons
