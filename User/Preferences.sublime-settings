@@ -5,6 +5,7 @@
 	"disable_tab_abbreviations_on_auto_complete": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"index_files":  false,
 	"ignored_packages":
 	[
 		"AutoPEP8",
