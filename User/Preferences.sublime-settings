@@ -25,7 +25,7 @@
 	"save_on_focus_lost": true,
 	"synch_folds": true,
 	"tab_size": 2,
-	"theme": "Seti_orig.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
   "node_path": "/usr/local/opt/node@16/bin/node",
