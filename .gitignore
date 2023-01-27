@@ -25,10 +25,6 @@
 !/FileHeader/template
 /FileHeader/template/*
 !/FileHeader/template/header
-# /FileHeader/template/header/*
-# !/FileHeader/template/header/JavaScript.tmpl
-# !/FileHeader/template/header/Python.tmpl
-
 
 # don't ignore base readme
 !README.md
