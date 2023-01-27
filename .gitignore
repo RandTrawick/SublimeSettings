@@ -2,10 +2,9 @@
 /*
 !/User
 /User/*
-!/User/*.jsbeautifyrc
 !/User/*.settings
-!/User/*.sublime-keymap
-!/User/*.sublime-settings
+!/User/*.jsbeautifyrc
+!/User/*.sublime-commands
 /User/*/
 *.gitignore
 #hide cache
@@ -29,4 +28,5 @@
 
 # don't ignore base readme
 !README.md
+!DetailsREADME.md
 */README.md
