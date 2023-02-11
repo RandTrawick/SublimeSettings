@@ -51,6 +51,7 @@
 		"SublimeLinter-javac",
 		"SublimeLinter-php",
 		"SublimeLinter-pug-lint",
+		"SublimeLinter-pylint",		
 		"SublimeLinter-xmllint",
 		"Sublimerge 3",
 		"SyncedSideBar",
