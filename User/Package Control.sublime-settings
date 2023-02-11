@@ -42,6 +42,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-php",
 		"SublimeLinter-pug-lint",
+		"SublimeLinter-pylint",
 		"SublimeLinter-stylelint",
 		"SublimeLinter-xmllint",
 		"SyncedSideBar",
