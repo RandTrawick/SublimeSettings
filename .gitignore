@@ -5,6 +5,10 @@
 !/User/*.settings
 !/User/*.jsbeautifyrc
 !/User/*.sublime-commands
+
+# is there a use case for not making public any of these file type settings?
+!/User/Python.sublime-settings
+
 /User/*/
 *.gitignore
 #hide cache
