@@ -19,9 +19,11 @@
 /Seti_UI/*
 !/Seti_UI/Seti.sublime-theme
 
-!/HTML-CSS-JS Prettify
-/HTML-CSS-JS Prettify/*
-!/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings
+!/CoolFormat
+/CoolFormat/*
+!/CoolFormat/CoolFormatLib
+/CoolFormat/CoolFormatLib/*
+!/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig
 
 # file templates
 !/FileHeader
