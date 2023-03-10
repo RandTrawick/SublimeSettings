@@ -19,6 +19,8 @@
 		"HTMLBeautify",
 		"jQuery",
 		"JsPrettier",
+		"LSP",
+		"LSP-copilot",
 		"MarkdownPreview",
 		"Monokai Extended",
 		"Package Control",
