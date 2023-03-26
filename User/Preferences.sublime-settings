@@ -7,7 +7,11 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Indent XML",
+		"JDebug",
+		"Sublimerge 3",
 		"Vintage",
+		"Xdebug Client",
 	],
 	"overlay_scroll_bars": "enabled",
 	"save_on_focus_lost": true,
