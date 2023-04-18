@@ -9,6 +9,7 @@
 	"ignored_packages":
 	[
 		"AutoPEP8",
+		"Babel",
 		"EsFormatter",
 		"HTML Minifier",
 		"MarkdownLivePreview",
