@@ -1,19 +1,17 @@
 {
-	"afn_use_project_root": true,
-	"color_scheme": "Monokai.sublime-color-scheme",
-	"detect_indentation": false,
-	"disable_tab_abbreviations_on_auto_complete": false,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-	],
-	"index_files": false,
-	"overlay_scroll_bars": "enabled",
-	"save_on_focus_lost": true,
-	"synch_folds": true,
-	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+  "afn_use_project_root": true,
+  "color_scheme": "Monokai.sublime-color-scheme",
+  "detect_indentation": false,
+  "disable_tab_abbreviations_on_auto_complete": false,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages": ["Vintage"],
+  "index_files": false,
+  "overlay_scroll_bars": "enabled",
+  "save_on_focus_lost": true,
+  "synch_folds": true,
+  "tab_size": 2,
+  "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_wrap": true
 }
