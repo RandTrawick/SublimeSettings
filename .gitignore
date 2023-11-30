@@ -4,6 +4,7 @@
 /User/*
 !/User/*.settings
 !/User/*.jsbeautifyrc
+!/User/JsPrettier.sublime-settings
 !/User/*.sublime-commands
 
 # is there a use case for not making public any of these file type settings?
@@ -18,12 +19,6 @@
 !/Seti_UI
 /Seti_UI/*
 !/Seti_UI/Seti.sublime-theme
-
-!/CoolFormat
-/CoolFormat/*
-!/CoolFormat/CoolFormatLib
-/CoolFormat/CoolFormatLib/*
-!/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig
 
 # file templates
 !/FileHeader
