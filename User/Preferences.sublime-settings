@@ -1,29 +1,5 @@
 {
   "afn_use_project_root": true,
-  "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
-  "detect_indentation": false,
-  "disable_tab_abbreviations_on_auto_complete": false,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "ignored_packages": ["Vintage"],
-  "Seti_blue_scrollbar": true,
-  "overlay_scroll_bars": "enabled",
-  "save_on_focus_lost": true,
-  "submit_usage": "no",
-  "synch_folds": true,
-  "tab_size": 2,
-  "theme": "Seti.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "word_wrap": true,
-  "index_files": true,
-  "index_exclude_patterns": [
-    "data/*",
-    "log/*",
-    "logs/*",
-    "node_modules/*",
-    "vendor/*",
-    "*.log"
-  ],
   "binary_file_patterns": [
     "*.bz2",
     "*.cache",
@@ -43,5 +19,29 @@
     "*.ttf",
     "*.zip"
   ],
-  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules/*"]
+  "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
+  "detect_indentation": false,
+  "disable_tab_abbreviations_on_auto_complete": false,
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules/*"],
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages": ["Vintage"],
+  "index_exclude_patterns": [
+    "data/*",
+    "log/*",
+    "logs/*",
+    "node_modules/*",
+    "vendor/*",
+    "*.log"
+  ],
+  "index_files": true,
+  "overlay_scroll_bars": "enabled",
+  "save_on_focus_lost": true,
+  "Seti_blue_scrollbar": true,
+  "submit_usage": "no",
+  "synch_folds": true,
+  "tab_size": 2,
+  "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_wrap": true
 }
