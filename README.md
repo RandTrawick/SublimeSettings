@@ -1,5 +1,9 @@
 # A pretty good sublime text setup
 
+<div class="icon-parent">
+  <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime text icon" width="150"/>
+</div>
+
 ## To use this
 
 - Install [sublime](https://www.sublimetext.com/).
@@ -23,11 +27,14 @@
 
 ## Highlights / features
 
-- Dark theme with icons
-- Autosave files
-- Code formatters
-- Code linting for JavaScript, Sass, HTML, etc.
-- Case convert for easy changing case of text (can be used with multi-select)
-- If you are not already, I recommend the use of:
-  - [Ctrl-D](https://docs.sublimetext.io/guide/usage/editing.html) - for selecting the whole variable word and multiple instances of word in the code file.
-  - [Ctrl-L](https://docs.sublimetext.io/guide/usage/editing.html) - for selecting multiple lines and doing things with the lines (like bulk type modifications).
+- Dark theme with icons.
+- Autosave files.
+- Code formatters using prettier library.
+- Code linting for JavaScript, Python, Sass, HTML, etc.
+- Case convert for easy changing case of text. (can be used with multi-select)
+- If you are not already using, I recommend the use of:
+  - [Ctrl-D](https://docs.sublimetext.io/guide/usage/editing.html)
+    - for selecting the whole variable word and multiple instances of word in the code file.
+  - [Ctrl-L](https://docs.sublimetext.io/guide/usage/editing.html)
+    - for selecting multiple lines and doing things with the lines.
+      - e.g. bulk modify multiple lines of code at once.
