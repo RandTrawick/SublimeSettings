@@ -7,7 +7,7 @@
 ## To use this
 
 - Install [sublime](https://www.sublimetext.com/).
-- [Install the sublime package manager](https://packagecontrol.io/installation)
+- [Install the sublime package manager](https://packagecontrol.io/installation) (if it is not already installed)
 - Open the sublime packages folder in a command prompt window ( browse packages )
 - Clone repo into the sublime "Packages" folder
 - Restart sublime and wait for the packages to be auto-installed by the sublime package manager
