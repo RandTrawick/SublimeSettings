@@ -16,10 +16,6 @@
     }
   },
   {
-    "keys": ["super+u"],
-    "command": "soft_undo"
-  },
-  {
     "keys": ["super+shift+z"],
     "command": "set_setting",
     "args": {
