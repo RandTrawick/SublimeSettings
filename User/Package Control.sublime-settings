@@ -22,7 +22,7 @@
 		"JsPrettier",
 		"MarkdownPreview",
 		"Package Control",
-		"Phpcs",
+		"PHP Codebeautifier",
 		"PostCSS Sorting",
 		"Pretty JSON",
 		"Pug",
@@ -53,5 +53,6 @@
 		"Theme - Seti Monokai",
 		"VBScript",
 		"WebdriverIO",
+		"Xdebug Client",
 	],
 }
