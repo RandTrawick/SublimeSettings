@@ -4,6 +4,7 @@
 /User/*
 !/User/*.settings
 !/User/*.jsbeautifyrc
+!/User/AdvancedNewFile.sublime-settings
 !/User/JsPrettier.sublime-settings
 !/User/*.sublime-commands
 
