@@ -49,6 +49,7 @@
     "SublimeLinter-php",
     "SublimeLinter-pug-lint",
     "SublimeLinter-pylint",
+    "SublimeLinter-stylelint",
     "SublimeLinter-xmllint",
     "Sublimerge 3",
     "SyncedSideBar",
@@ -58,6 +59,6 @@
     "TypeScript",
     "VBScript",
     "WebdriverIO",
-    "Xdebug Client"
+    "Xdebug Client",
   ],
 }
