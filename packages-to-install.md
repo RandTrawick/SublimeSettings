@@ -1,4 +1,4 @@
-# npm packages to install to maximize this set
+# npm packages to install to maximize this set up
 
   - JsPrettier
     - `npm install --g prettier`
