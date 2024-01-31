@@ -21,6 +21,18 @@
   - SublimeLinter-stylelint
     - `npm install  -g postcss stylelint sass-lint`
 
+ ## Install the whole shebang
+
+    npm install --g prettier;
+    npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo;
+    npm install --g postcss postcss-sorting;
+    pip3 install --upgrade --pre CodeInte;
+    composer global require "asm89/twig-lint" "@stable";
+    npm install -g eslint;
+    npm install -g pug-lint;
+    pip3 install pylint;
+    npm install  -g postcss stylelint sass-lint;
+
 
 ## Package references:
   - [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile)
