@@ -9,11 +9,12 @@
   - PostCSS Sorting
     - `npm install --g postcss postcss-sorting`
   - SublimeCodeIntel
-    - `pip3 install --upgrade --pre CodeIntel
+    - `pip3 install --upgrade --pre CodeIntel`
   - SublimeLinter-contrib-twiglint
     - `composer global require "asm89/twig-lint" "@stable"`
+    - requires [composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
   - SublimeLinter-eslint
-    - `npm install -g eslint` 
+    - `npm install -g eslint`
   - SublimeLinter-pug-lint
     - `npm install -g pug-lint`
   - SublimeLinter-pylint
@@ -26,7 +27,7 @@
     npm install --g prettier;
     npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo;
     npm install --g postcss postcss-sorting;
-    pip3 install --upgrade --pre CodeInte;
+    pip3 install --upgrade --pre CodeIntel;
     composer global require "asm89/twig-lint" "@stable";
     npm install -g eslint;
     npm install -g pug-lint;
