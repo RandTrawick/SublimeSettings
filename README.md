@@ -30,7 +30,7 @@
 
 - Dark theme with icons.
 - Autosave files.
-- Optimization of Sublime Text via sublime settings
+- Optimization of Sublime Text via sublime settings.
 - Code formatters using prettier library.
 - Code linting for JavaScript, Python, Sass, HTML, etc.
 - Case convert for easy changing case of text. (can be used with multi-select)
