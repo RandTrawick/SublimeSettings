@@ -1,4 +1,4 @@
-# A pretty good sublime text setup
+# A pretty good Sublime Text setup
 
 <div class="icon-parent">
   <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime text icon" width="150"/>
@@ -6,7 +6,7 @@
 
 ## To use this
 
-- Install [sublime](https://www.sublimetext.com/).
+- Install [Sublime Text](https://www.sublimetext.com/).
 - [Install the sublime package manager](https://packagecontrol.io/installation) (if it is not already installed)
 - [install dependencies for these packages](./packages-to-install.md)
 - Open the sublime packages folder in a command prompt window ( browse packages )
@@ -30,6 +30,7 @@
 
 - Dark theme with icons.
 - Autosave files.
+- Optimization of Sublime Text via sublime settings
 - Code formatters using prettier library.
 - Code linting for JavaScript, Python, Sass, HTML, etc.
 - Case convert for easy changing case of text. (can be used with multi-select)
