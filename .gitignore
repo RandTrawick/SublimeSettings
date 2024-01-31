@@ -34,5 +34,6 @@
 
 # don't ignore base readme
 !README.md
+!packages-to-install.md
 !DetailsREADME.md
 */README.md
