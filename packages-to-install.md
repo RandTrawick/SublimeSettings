@@ -10,7 +10,7 @@
     - `npm install --g postcss postcss-sorting`
   - SublimeCodeIntel
     - `pip3 install --upgrade --pre CodeIntel`
-  - SublimeLinter-contrib-twiglint
+  - SublimeLinter-contrib-twiglint (php twig)
     - `composer global require "asm89/twig-lint" "@stable"`
     - requires [composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
   - SublimeLinter-eslint
