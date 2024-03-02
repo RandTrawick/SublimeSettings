@@ -22,7 +22,7 @@
   "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
   "detect_indentation": false,
   "disable_tab_abbreviations_on_auto_complete": false,
-  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules/*"],
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages": ["Vintage",
