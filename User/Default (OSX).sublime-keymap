@@ -39,7 +39,7 @@
   {
     "keys": ["tab"],
     "command": "expand_abbreviation_by_tab",
-
+    // Emmet
     // put comma-separated syntax selectors for which
     // you want to expandEmmet abbreviations into "operand" key
     // instead of SCOPE_SELECTOR.
