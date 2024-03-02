@@ -1,5 +1,12 @@
 [
   { "keys": ["super+alt+n"], "command": "advanced_new_file_new" },
+  {
+    "keys": ["ctrl+alt+c", "ctrl+alt+t"],
+    "command": "chain",
+    "args": {
+      "commands": [["convert_to_separate_words"], ["title_case"]]
+    }
+  },  
   { "keys": ["super+shift+h"], "command": "js_prettier" },
   {
     "keys": ["super+shift+k"],
@@ -11,10 +18,7 @@
   {
     "keys": ["super+h"],
     "command": "show_panel",
-    "args": {
-      "panel": "replace",
-      "reverse": false
-    }
+    "args": { "panel": "replace", "reverse": false }
   },
   {
     "keys": ["super+shift+z"],
@@ -35,7 +39,7 @@
   {
     "keys": ["tab"],
     "command": "expand_abbreviation_by_tab",
-    // Emmet
+
     // put comma-separated syntax selectors for which
     // you want to expandEmmet abbreviations into "operand" key
     // instead of SCOPE_SELECTOR.

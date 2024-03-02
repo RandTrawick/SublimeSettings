@@ -1,0 +1,19 @@
+[
+  {
+    "id": "edit",
+    "children": [
+      {
+        "id": "convert_case",
+        "children": [
+          {
+            "caption": "Title Case",
+            "command": "chain",
+            "args": {
+              "commands": [["convert_to_separate_words"], ["title_case"]]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

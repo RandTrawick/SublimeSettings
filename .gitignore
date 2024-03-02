@@ -32,6 +32,9 @@
 /FileHeader/template/*
 !/FileHeader/template/header
 
+# custom menus
+!/User/Main.sublime-menu
+
 # don't ignore base readme
 !README.md
 !packages-to-install.md
