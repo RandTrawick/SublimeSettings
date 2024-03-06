@@ -20,14 +20,13 @@
     "*.zip"
   ],
   "color_scheme": "Monokai.sublime-color-scheme",
-  "detect_indentation": false,
+  "detect_indentation": true,
   "disable_tab_abbreviations_on_auto_complete": false,
   "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
   "hardware_acceleration": "none",
   "highlight_line": true,
   "highlight_modified_tabs": true,
-  "ignored_packages": ["Vintage",
-  ],
+  "ignored_packages": ["Vintage"],
   "index_exclude_patterns": ["data/*", "log/*", "logs/*", "node_modules/*", "vendor/*", "*.log"],
   "index_files": false,
   "index_skip_unknown_extensions": false,
@@ -35,7 +34,8 @@
   "save_on_focus_lost": true,
   "synch_folds": true,
   "tab_size": 2,
+  "translate_tabs_to_spaces": true,
   "theme": "Seti.sublime-theme",
   "translate_tabs_to_spaces": true,
-  "word_wrap": true,
+  "word_wrap": true
 }
