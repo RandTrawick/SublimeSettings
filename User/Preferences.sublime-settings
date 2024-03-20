@@ -32,7 +32,7 @@
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages": [
-    "Vintage"
+    "Vintage",
   ],
   "index_exclude_patterns": [
     "data/*",
@@ -50,5 +50,5 @@
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "theme": "Seti.sublime-theme",
-  "word_wrap": true
+  "word_wrap": true,
 }
