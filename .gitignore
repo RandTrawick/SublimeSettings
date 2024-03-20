@@ -27,12 +27,10 @@
 /CoolFormat/CoolFormatLib/*
 !/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig
 
-# file templates
-!/FileHeader
+# modified file templates
 /FileHeader/*
-!/FileHeader/template
-/FileHeader/template/*
-!/FileHeader/template/header
+!/FileHeader/template/header/*
+
 
 # custom menus
 !/User/Main.sublime-menu

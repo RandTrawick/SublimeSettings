@@ -24,9 +24,9 @@
 
  ## Install the whole shebang
 
-    npm install --g prettier;
+    npm install -g prettier;
     npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo;
-    npm install --g postcss postcss-sorting;
+    npm install -g postcss postcss-sorting;
     pip3 install --upgrade --pre CodeIntel;
     composer global require "asm89/twig-lint" "@stable";
     npm install -g eslint;
