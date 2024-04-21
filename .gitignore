@@ -2,7 +2,7 @@
 /*
 !/User
 /User/*
-!/User/*.settings
+!/User/*.sublime-settings
 !/User/*.jsbeautifyrc
 !/User/*.sublime-commands
 
