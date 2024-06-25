@@ -20,6 +20,8 @@
 		"HTMLBeautify",
 		"jQuery",
 		"JsPrettier",
+		"LSP",
+		"LSP-typescript",
 		"MarkdownPreview",
 		"Package Control",
 		"PHP Codebeautifier",
