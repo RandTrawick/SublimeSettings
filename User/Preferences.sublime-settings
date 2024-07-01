@@ -35,7 +35,7 @@
     "vendor/*",
     "*.log"
   ],
-  "index_files": true,
+  "index_files": false,
   "overlay_scroll_bars": "enabled",
   "save_on_focus_lost": true,
   "Seti_blue_scrollbar": true,
