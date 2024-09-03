@@ -20,6 +20,7 @@
 		"HTMLBeautify",
 		"jQuery",
 		"JsPrettier",
+		"KeybindingHelper",
 		"LSP",
 		"LSP-typescript",
 		"MarkdownPreview",
