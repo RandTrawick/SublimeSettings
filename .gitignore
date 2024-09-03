@@ -3,6 +3,7 @@
 !/User
 /User/*
 !/User/*.sublime-settings
+!/User/*.sublime-keymap
 !/User/*.jsbeautifyrc
 !/User/*.sublime-commands
 
