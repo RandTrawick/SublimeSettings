@@ -1,12 +1,31 @@
 [
   { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new" },
+  { "keys": ["super+alt+c", "super+alt+s"], "command": "convert_to_snake" },
   {
-    "keys": ["ctrl+alt+c", "ctrl+alt+t"],
+    "keys": ["super+alt+c", "super+alt+shift+s"],
+    "command": "convert_to_screaming_snake"
+  },
+  { "keys": ["super+alt+c", "super+alt+c"], "command": "convert_to_camel" },
+  { "keys": ["super+alt+c", "super+alt+p"], "command": "convert_to_pascal" },
+  { "keys": ["super+alt+c", "super+alt+d"], "command": "convert_to_dot" },
+  { "keys": ["super+alt+c", "super+alt+h"], "command": "convert_to_dash" },
+  {
+    "keys": ["super+alt+c", "super+alt+w"],
+    "command": "convert_to_separate_words"
+  },
+  { "keys": ["super+alt+c", "super+alt+/"], "command": "convert_to_slash" },
+  {
+    "keys": ["super+alt+c", "super+alt+b"],
+    "command": "convert_to_back_slash"
+  },
+  { "keys": ["super+shift+-"], "command": "toggle_snake_camel_pascal" },
+  {
+    "keys": ["super+alt+c", "super+alt+t"],
     "command": "chain",
     "args": {
       "commands": [["convert_to_separate_words"], ["title_case"]]
     }
-  },  
+  },
   { "keys": ["ctrl+shift+h"], "command": "js_prettier" },
   {
     "keys": ["ctrl+shift+k"],
