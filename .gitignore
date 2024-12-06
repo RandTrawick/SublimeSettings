@@ -4,8 +4,6 @@
 /User/*
 !/User/*.settings
 !/User/*.jsbeautifyrc
-!/User/AdvancedNewFile.sublime-settings
-!/User/JsPrettier.sublime-settings
 !/User/*.sublime-commands
 
 # is there a use case for not making public any of these file type settings?
@@ -27,13 +25,12 @@
 /CoolFormat/CoolFormatLib/*
 !/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig
 
-# modified file templates
+# file templates
+!/FileHeader
 /FileHeader/*
-!/FileHeader/template/header/*
-
-
-# custom menus
-!/User/Main.sublime-menu
+!/FileHeader/template
+/FileHeader/template/*
+!/FileHeader/template/header
 
 # don't ignore base readme
 !README.md
