@@ -60,5 +60,6 @@
 		"VBScript",
 		"WebdriverIO",
 		"Xdebug Client",
+		"Yollama",
 	],
 }
