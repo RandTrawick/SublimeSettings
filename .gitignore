@@ -1,43 +1,66 @@
-# hide almost everything from repo
-/*
-!/User
+# hide all by default
+*
+
+# explicitly include directories and their contents
+!/
+!/Babel\ Snippets/
+/Babel\ Snippets/*
+
+!/Emmet\ Css\ Snippets/
+/Emmet\ Css\ Snippets/*
+
+!/FileHeader/
+/FileHeader/*
+
+!/JsPrettier/
+/JsPrettier/*
+
+!/PostCSS\ Sorting/
+/PostCSS\ Sorting/*
+
+!/Seti_UI/
+/Seti_UI/*
+
+!/Seti_UX/
+/Seti_UX/*
+
+!/SublimeCodeIntel/
+/SublimeCodeIntel/*
+
+!/SublimeLinter-contrib-terraform/
+/SublimeLinter-contrib-terraform/*
+
+!/SublimeLinter-contrib-twiglint/
+/SublimeLinter-contrib-twiglint/*
+
+!/Terminal/
+/Terminal/*
+
+!/User/
 /User/*
-!/User/*.sublime-settings
-!/User/*.sublime-keymap
-!/User/*.jsbeautifyrc
-!/User/*.sublime-commands
 
-# is there a use case for not making public any of these file type settings?
-!/User/Python.sublime-settings
-
-/User/*/
-*.gitignore
-#hide cache
-*Control.cache
+# explicitly include specific files within the User directory
+/User/*.sublime-settings
+/User/*.sublime-keymap
+/User/*.jsbeautifyrc
+/User/*.sublime-commands
+/User/Python.sublime-settings
 
 # custom packages settings
-!/Seti_UI
-/Seti_UI/*
 !/Seti_UI/Seti.sublime-theme
 
-!/CoolFormat
-/CoolFormat/*
-!/CoolFormat/CoolFormatLib
-/CoolFormat/CoolFormatLib/*
-!/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig
-
 # file templates
-!/FileHeader
-/FileHeader/*
-!/FileHeader/template
-/FileHeader/template/*
 !/FileHeader/template/header
 
 # custom menus
 !/User/Main.sublime-menu
 
-# don't ignore base readme
+# don't ignore base readme files
 !README.md
 !packages-to-install.md
 !DetailsREADME.md
-*/README.md
+*/
+README.md
+
+# hide cache
+*Control.cache
