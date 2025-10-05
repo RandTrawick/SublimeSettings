@@ -51,6 +51,7 @@
 
 # Add to Context
 /AddToContext/*
+/User/AddToContext.sublime-settings
 
 # file templates
 !/FileHeader/template/header
