@@ -49,6 +49,9 @@
 # custom packages settings
 !/Seti_UI/Seti.sublime-theme
 
+# Add to Context
+/AddToContext/*
+
 # file templates
 !/FileHeader/template/header
 
