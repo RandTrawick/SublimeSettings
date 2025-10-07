@@ -19,6 +19,10 @@
 /Seti_UI/*
 !/Seti_UI/Seti.sublime-theme
 
+# Add to Context
+/AddToContext/*
+/User/AddToContext.sublime-settings
+
 !/CoolFormat
 /CoolFormat/*
 !/CoolFormat/CoolFormatLib
