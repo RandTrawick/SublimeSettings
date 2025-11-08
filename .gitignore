@@ -29,13 +29,6 @@
 /CoolFormat/CoolFormatLib/*
 !/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig
 
-# file templates
-!/FileHeader
-/FileHeader/*
-!/FileHeader/template
-/FileHeader/template/*
-!/FileHeader/template/header
-
 # don't ignore base readme
 !README.md
 !packages-to-install.md
