@@ -32,8 +32,6 @@
   "index_files": false,
   "index_skip_unknown_extensions": false,
   "overlay_scroll_bars": "enabled",
-  "recent_files_limit": 20,
-  "recent_projects_limit": 20,
   "save_on_focus_lost": true,
   "synch_folds": true,
   "tab_size": 2,
