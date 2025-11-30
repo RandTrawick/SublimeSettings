@@ -44,7 +44,7 @@
 /User/*.sublime-keymap
 /User/*.jsbeautifyrc
 /User/*.sublime-commands
-/User/Python.sublime-settings
+/User/formatter.assets
 
 # custom packages settings
 !/Seti_UI/Seti.sublime-theme
