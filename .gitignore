@@ -46,6 +46,9 @@
 !/User/*.sublime-commands
 !/User/formatter.assets/**
 
+# always ignore the log
+User/Xdebug.log
+
 # custom packages settings
 !/Seti_UI/Seti.sublime-theme
 
