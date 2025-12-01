@@ -1,7 +1,7 @@
 {
     "arrowParens": "always",
     "bracketSameLine": false,
-    "bracketSpacing": true,
+    "bracketSpacing": false,
     "embeddedLanguageFormatting": "auto",
     "htmlWhitespaceSensitivity": "css",
     "insertPragma": false,
@@ -12,13 +12,10 @@
             "options": {
                 "tabWidth": 4,
                 "trailingComma": "none",
-                "printWidth": 120
-            }
-        },
-        {
-            "files": "*.html",
-            "options": {
-                "tabWidth": 4
+                "printWidth": 200,
+                "bracketSameLine": false,
+                "bracketSpacing": false,
+                "singleAttributePerLine": false
             }
         }
     ],
