@@ -40,11 +40,11 @@
 /User/*
 
 # explicitly include specific files within the User directory
-/User/*.sublime-settings
-/User/*.sublime-keymap
-/User/*.jsbeautifyrc
-/User/*.sublime-commands
-/User/formatter.assets/**
+!/User/*.sublime-settings
+!/User/*.sublime-keymap
+!/User/*.jsbeautifyrc
+!/User/*.sublime-commands
+!/User/formatter.assets/**
 
 # custom packages settings
 !/Seti_UI/Seti.sublime-theme
