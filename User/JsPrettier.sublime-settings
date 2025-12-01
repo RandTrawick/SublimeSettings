@@ -1,4 +1,4 @@
 {
   "disable_prettier_cursor_offset": true,
-  "prettier_cli_path": "$HOME/.nvm/versions/node/v20.15.1/bin/prettier",
+  "prettier_cli_path": "$NODE_BIN_DIR/prettier",
 }
