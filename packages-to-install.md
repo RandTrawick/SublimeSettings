@@ -53,6 +53,7 @@
   - [FileDiffs](https://packagecontrol.io/packages/FileDiffs)
   - [FileHeader](https://packagecontrol.io/packages/FileHeader)
   - [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts)
+  - [Formatter](https://packagecontrol.io/packages/Formatter)
   - [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify)
   - [Indent XML](https://packagecontrol.io/packages/Indent%20XML)
   - [JDebug](https://packagecontrol.io/packages/JDebug)
