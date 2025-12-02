@@ -1,0 +1,183 @@
+{
+  "formatters": {
+    "cmakeformat": {
+      "info": "https://github.com/cheshirekow/cmake_format",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["cmake"],
+      "executable_path": ["/path/to/bin/cmake-format"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/cmakeformat_rc.py",
+      },
+      /* Requires "environ": {"PYTHONPATH": ["/lib/python3.7/site-packages"]}. Omit "interpreter_path" if python already on PATH. */
+    },
+    "drawio": {
+      "info": "https://github.com/jgraph/drawio-desktop",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "syntaxes": ["drawio"],
+      "type": "graphic",
+      "render_extended": false,
+      "executable_path": ["/path/to/bin/draw.io"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/drawio_rc.yaml",
+      },
+      /* "executable_path" for macOS is /Applications/draw.io.app/Contents/MacOS/draw.io; no dark-theme for PNG. */
+    },
+    "googlejavaformat": {
+      "info": "https://github.com/google/google-java-format",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["java"],
+      "interpreter_path": ["/path/to/bin/java.exe"],
+      "executable_path": ["/path/to/bin/google-java-format-all-deps.jar"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/google_java_format_rc.yaml",
+      },
+      /* Omit "interpreter_path" if java already on PATH. */
+    },
+    "htmltidy": {
+      "info": "https://github.com/htacg/tidy-html5",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["html", "xml"],
+      "executable_path": ["/path/to/bin/tidy"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "html": "${packages}/User/formatter.assets/config/htmltidy_html_rc.cfg",
+        "xml": "${packages}/User/formatter.assets/config/htmltidy_xml_rc.cfg",
+      },
+    },
+    "mermaid": {
+      "info": "https://github.com/mermaid-js/mermaid-cli",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "syntaxes": ["mermaid"],
+      "type": "graphic",
+      "render_extended": false,
+      "executable_path": ["$NODE_BIN_DIR/mmdc"],
+      "args": [
+        "--width",
+        "800",
+        "--height",
+        "600",
+        "--backgroundColor",
+        "white",
+      ],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/mermaid_rc.json",
+      },
+    },
+    "perltidy": {
+      "info": "https://github.com/perltidy/perltidy",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["perl"],
+      "executable_path": ["/path/to/bin/perltidy or /path/to/perltidy.pl"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/perltidy_rc.cfg",
+      },
+      /* Omit "interpreter_path" if perl already on PATH. */
+    },
+    "phpcsfixer": {
+      "info": "https://github.com/FriendsOfPHP/PHP-CS-Fixer",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["php"],
+      "executable_path": ["/path/to/bin/php-cs-fixer.phar"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/php_cs_fixer_rc.php",
+      },
+      /* Omit "interpreter_path" if php already on PATH. */
+    },
+    "prettier": {
+      "info": "https://github.com/prettier/prettier",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": [
+        "css",
+        "scss",
+        "less",
+        "js",
+        "jsx",
+        "json",
+        "html",
+        "graphql",
+        "markdown",
+        "ts",
+        "tsx",
+        "vue",
+        "yaml",
+      ],
+      "executable_path": ["$NODE_BIN_DIR/prettier"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/prettier_rc.json",
+      },
+      /* Omit "interpreter_path" as files in /node_modules/.bin/ already point to node. */
+    },
+    "ruff": {
+      "info": "https://github.com/astral-sh/ruff",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["python"],
+      "executable_path": ["$PYTHON_BIN_DIR/site-packages/ruff"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/ruff_rc.toml",
+      },
+    },
+    "prettytable": {
+      "info": "https://github.com/jazzband/prettytable",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["csv", "text"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/prettytable_rc.json",
+      },
+      /* Build-in, no "executable_path". */
+    },
+    "stylelint": {
+      "info": "https://github.com/stylelint/stylelint",
+      "enable": true,
+      "format_on_save": false,
+      "format_on_paste": false,
+      "dir_format": false,
+      "syntaxes": ["css", "scss", "sass", "less", "sss", "sugarss"],
+      "executable_path": [
+        "$NODE_BIN_DIR//stylelint(.cmd on windows)",
+      ],
+      "args": ["--config-basedir", "/path/to/javascript/node_modules"],
+      "config_path": {
+        "ignore_dotfiles": false,
+        "default": "${packages}/User/formatter.assets/config/stylelint_rc.json",
+      },
+      /* Omit "interpreter_path" as files in /node_modules/.bin/ already point to node. */
+    },
+  },
+}
