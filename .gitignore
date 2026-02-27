@@ -6,6 +6,9 @@
 !/Babel\ Snippets/
 /Babel\ Snippets/*
 
+!/Default/
+!/Default/*.sublime-menu
+
 !/Emmet\ Css\ Snippets/
 /Emmet\ Css\ Snippets/*
 
