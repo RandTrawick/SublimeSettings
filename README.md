@@ -1,4 +1,4 @@
-# A pretty good sublime text setup
+# A pretty good Sublime Text setup
 
 <div class="icon-parent">
   <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime text icon" width="150"/>
@@ -6,7 +6,7 @@
 
 ## To use this
 
-- Install [sublime](https://www.sublimetext.com/).
+- Install [Sublime Text](https://www.sublimetext.com/).
 - [Install the sublime package manager](https://packagecontrol.io/installation) (if it is not already installed)
 - [install dependencies for these packages](./packages-to-install.md)
 - Open the sublime packages folder in a command prompt window ( browse packages )
@@ -22,19 +22,18 @@
 
 ## Troubleshooting
 
-- If you get a weird coloured bar across the top the screen on install of this repo
-  - Wait for all dependencies to install and see if that fixes it.
-  - If that doesn't fix it, you can try changing the theme and then change it back.
-      - Open the menu preferences > theme
-      - Change the theme to Default.sublime-theme
-      - Wait
-      - Change the theme to Seti.sublime-theme
-      - If that still does not fix it, try removing Seti UI theme and reinstalling it.
+- If you get a weird coloured bar across the top the screen on install of this repo, change the theme and then change it back.
+  - Open the menu preferences > theme
+  - Change the theme to Default.sublime-theme
+  - Wait
+  - Change the theme to Seti.sublime-theme
+  - If that still does not fix it, try removing Seti UI theme and reinstalling it.
 
 ## Highlights / features
 
 - Dark theme with icons.
 - Autosave files.
+- Optimization of Sublime Text via sublime settings.
 - Code formatters using prettier library.
 - Code linting for JavaScript, Python, Sass, HTML, etc.
 - Case convert for easy changing case of text. (can be used with multi-select)
