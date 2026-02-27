@@ -12,7 +12,9 @@
 - Open the sublime packages folder in a command prompt window ( browse packages )
 - Clone repo into the sublime "Packages" folder
 - Restart sublime and wait for the packages to be auto-installed by the sublime package manager
-- To update the custom file headers, repull the repo to overwrite the file header default files
+- After everything is installed, run this to update the custom file headers and cool format java styles as they are overwritten by the package installs:
+  - ```git checkout HEAD FileHeader;```
+  - ```git checkout HEAD CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig;```
 
 ## Branches
 
